@@ -44,3 +44,6 @@ circuits, and hardware experiments.
 
 This repository is an ongoing work log. Hardware experiments
 will be marked tested only after they have actually been tested.
+### Arduino Installation Guide
+
+See [Installing Arduino on Raspberry Pi OS Using Terminal](setup/arduino-installation.md).
