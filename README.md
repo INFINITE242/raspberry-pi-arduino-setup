@@ -1,4 +1,4 @@
-# Raspberry Pi Electronics
+- [x] Verify Arduino libraries# Raspberry Pi Electronics
 
 An ongoing record of setting up and using a Raspberry Pi for
 electronics development, Arduino programming, microcontrollers,
@@ -21,7 +21,7 @@ circuits, and hardware experiments.
 - [x] Install ESP8266 board support
 - [x] Configure Git
 - [x] Authenticate GitHub CLI
-- [ ] Verify Arduino libraries
+- [x] Verify Arduino libraries
 - [ ] Verify boards appear in Arduino IDE
 - [ ] Connect and identify the physical microcontroller
 - [ ] Upload and test the first sketch
