@@ -22,7 +22,7 @@ circuits, and hardware experiments.
 - [x] Configure Git
 - [x] Authenticate GitHub CLI
 - [x] Verify Arduino libraries
-- [ ] Verify boards appear in Arduino IDE
+- [x] Verify boards appear in Arduino IDE
 - [ ] Connect and identify the physical microcontroller
 - [ ] Upload and test the first sketch
 
