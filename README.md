@@ -47,3 +47,5 @@ will be marked tested only after they have actually been tested.
 ### Arduino Installation Guide
 
 See [Installing Arduino on Raspberry Pi OS Using Terminal](setup/arduino-installation.md).
+- [Arduino installation guide](setup/arduino-installation.md)
+- [Arduino libraries guide](setup/arduino-libraries.md)
