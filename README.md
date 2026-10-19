@@ -54,3 +54,33 @@ See [Installing Arduino on Raspberry Pi OS Using Terminal](setup/arduino-install
 - [Arduino installation](setup/arduino-installation.md)
 - [Arduino libraries](setup/arduino-libraries.md)
 - [ESP32 and ESP8266 setup](setup/esp-board-setup.md)
+## Project Navigation
+
+### Setup Guides
+- [Arduino Installation on Raspberry Pi OS](setup/arduino-installation.md)
+- [Arduino Libraries](setup/arduino-libraries.md)
+- [ESP32 and ESP8266 Setup](setup/esp-board-setup.md)
+
+### Electronics Experiments
+- Individual experiments will be documented with instructions, code, wiring details, and photos.
+- Each experiment will have its own folder for easy access.
+
+### Circuits and Wiring
+- Circuit diagrams, wiring references, and component connections.
+
+### Troubleshooting
+- Errors encountered during setup and experiments, with solutions.
+
+## Experiment Documentation Standard
+
+Every experiment should include, where applicable:
+
+- **Objective:** What we want to test.
+- **Components:** Parts used.
+- **Wiring:** Pin connections and circuit diagram.
+- **Code:** Complete, reusable source code.
+- **Procedure:** Steps to reproduce the test.
+- **Photos:** Actual setup, wiring, and working result.
+- **Results:** What worked and what didn't.
+- **Troubleshooting:** Errors and fixes.
+- **Status:** Planned, assembled, or tested.
