@@ -49,3 +49,8 @@ will be marked tested only after they have actually been tested.
 See [Installing Arduino on Raspberry Pi OS Using Terminal](setup/arduino-installation.md).
 - [Arduino installation guide](setup/arduino-installation.md)
 - [Arduino libraries guide](setup/arduino-libraries.md)
+### Setup Guides
+
+- [Arduino installation](setup/arduino-installation.md)
+- [Arduino libraries](setup/arduino-libraries.md)
+- [ESP32 and ESP8266 setup](setup/esp-board-setup.md)
