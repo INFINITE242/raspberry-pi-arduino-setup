@@ -84,3 +84,6 @@ Every experiment should include, where applicable:
 - **Results:** What worked and what didn't.
 - **Troubleshooting:** Errors and fixes.
 - **Status:** Planned, assembled, or tested.
+### Explore Experiments
+
+Browse the [Electronics Experiment Index](experiments/README.md) for project ideas, instructions, code, wiring, and photos as projects are completed.
